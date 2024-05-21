@@ -1,0 +1,30 @@
+_repo: Sketches-of-social-life-in-India_73610
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buckland, C. T. (Charles Thomas)
+    alias: Buckland, Charles Thomas
+    birthdate: 1824
+    deathdate: 1894
+    gutenberg_agent_id: '51146'
+    url: http://www.gutenberg.org/2009/agents/51146
+description: ''
+gutenberg_issued: '2024-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73610'
+language: en
+pgterms:marc904: https://archive.org/details/sketchessociall01buckgoog
+pgterms:marc905: 20200629164103buckland
+pgterms:marc906: '1884'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bW. H. Allen, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sketches of social life in India
+url: http://www.gutenberg.org/ebooks/73610
