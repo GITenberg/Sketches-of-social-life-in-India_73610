@@ -1,5 +1,8 @@
 _repo: Sketches-of-social-life-in-India_73610
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73610-h/images/cover.jpg
 creator:
   author:
     agent_name: Buckland, C. T. (Charles Thomas)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51146'
     url: http://www.gutenberg.org/2009/agents/51146
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73610#Sketches-of-social-life-in-India
 gutenberg_issued: '2024-05-12'
 gutenberg_type: Text
 identifiers:
